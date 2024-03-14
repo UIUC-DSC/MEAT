@@ -1,6 +1,6 @@
 # MEAT
 
-2.4 billion people live in countries with high levels of water stress (1). Inadequate access to clean water reduces levels of sanitation, exacerbating the spread of disease. Agriculture also becomes more difficult in water-stressed areas, causing malnutrition and hunger. People in water-stressed areas often have to travel far or wait long to acquire drinking water. This reduces the amount of time available to pursue higher goals like education, thereby stunting the community's development. 
+2.4 billion people live in countries with high levels of water stress (1). Inadequate access to clean water reduces levels of sanitation, exacerbating the spread of disease. Agriculture also becomes more difficult to maintain in water-stressed areas, causing malnutrition and hunger. People in water-stressed areas often have to travel far or wait long to acquire drinking water. This reduces the amount of time available to pursue higher goals like education, thereby stunting the community's development. 
 
 The goal of this analysis is to understand the factors that affect water stress in order to combat this growing issue. This project models the effect of ____, ____, and ____ upon water stress worldwide. *Explain how each factor contributes*
 
