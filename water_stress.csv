@@ -1,4 +1,4 @@
-,country,code,year,stress,% agriculture water,% industry water,% domestic water,water per capita,% urban population,state capacity,cattle,total withdrawals,cereal yield,control of corruption,% hydro electricity,% permanent cropland,population density
+,country,code,year,stress,agriculture_water,industry_water,domestic_water,water_per_capita,urban_population,state_capacity,cattle,total_withdrawals,cereal_yield,control_of_corruption,hydro_electricity,permanent_cropland,population_density
 0,Afghanistan,AFG,2000,54.76,98.6062,0.63354486,0.7602538,2412.6309,22.078,-1.184,700000.0,20.282,806.3,-1.27172422409058,,0.170185364058691,29.963328887049
 1,Afghanistan,AFG,2001,54.76,98.51858,0.6733745,0.8080494,2394.783,22.169,-1.281,600000.0,20.282,1006.7,,,0.171718565536697,30.1866396823207
 2,Afghanistan,AFG,2002,54.76,98.43111,0.7131334,0.85576004,2245.2107,22.261,-1.332,833000.0,20.282,1669.8,-1.25113701820374,,0.171718565536697,32.1976235377091
