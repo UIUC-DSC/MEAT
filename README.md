@@ -4,18 +4,9 @@
 
 2.4 billion people live in countries with high levels of water stress. Inadequate access to clean water reduces levels of sanitation, exacerbating the spread of disease. Agriculture also becomes more difficult to maintain in water-stressed areas, causing malnutrition and hunger. People in water-stressed areas often have to travel far or wait long to acquire drinking water. This reduces the amount of time available to pursue higher goals like education, thereby stunting the community's development. 
 
-The goal of this analysis is to understand the factors that affect water stress in order to combat this growing issue. This project models the effect of ____, ____, and ____ upon water stress worldwide. *Explain how each factor contributes*
+## Goals: 
 
-## Sources:
-
-- renewable-water-resources-per-capita.csv & municipal-water-as-a-share-of-total-water-withdrawals.csv & industrial-water-as-a-share-of-total-water-withdrawals.csv & agricultural-water-as-a-share-of-total-water-withdrawals.csv, from https://ourworldindata.org/water-use-stress, collected on Thursday, March 14, 2024.
-
-- state-capacity-index.csv, from https://ourworldindata.org/state-capacity?insight=many-states-have-increased-their-capacities-in-recent-decades#key-insights, collected on Thursday, March 14, 2024.
-
-- share-of-population-urban.csv, from https://ourworldindata.org/urbanization, collected on Thursday, March 14, 2024.
-
-- FAOSTAT_meat_production_by_country_by_year.csv, from https://www.fao.org/faostat/en/#data/QCL, collected on Thursday, March 14, 2024.
-
+The goal of this analysis is to understand the factors that affect water stress in order to combat this growing issue. In particular, *reducing meat production* 
 
 ## Variable Definitions:
 
@@ -53,3 +44,17 @@ skilled and impartial security forces and public servants. Higher scores mean mo
 `permanent_cropland` = Permanent cropland is land cultivated with crops that occupy the land for long periods and need not be replanted after each harvest, such as cocoa, coffee, and rubber. This category includes land under flowering shrubs, fruit trees, nut trees, and vines, but excludes land under trees grown for wood or timber.
 
 `population_density` = Population density is midyear population divided by land area in square kilometers.
+
+## Conclusions:
+
+## Resources:
+
+- renewable-water-resources-per-capita.csv & municipal-water-as-a-share-of-total-water-withdrawals.csv & industrial-water-as-a-share-of-total-water-withdrawals.csv & agricultural-water-as-a-share-of-total-water-withdrawals.csv, from https://ourworldindata.org/water-use-stress, collected on Thursday, March 14, 2024.
+
+- state-capacity-index.csv, from https://ourworldindata.org/state-capacity?insight=many-states-have-increased-their-capacities-in-recent-decades#key-insights, collected on Thursday, March 14, 2024.
+
+- share-of-population-urban.csv, from https://ourworldindata.org/urbanization, collected on Thursday, March 14, 2024.
+
+- FAOSTAT_meat_production_by_country_by_year.csv, from https://www.fao.org/faostat/en/#data/QCL, collected on Thursday, March 14, 2024.
+  
+- *Packages used*
