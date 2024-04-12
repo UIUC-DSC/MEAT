@@ -1,12 +1,12 @@
 ## Team MEAT
 
-## Goals:
+## Overview:
 
 2.4 billion people live in countries with high levels of water stress. Inadequate access to clean water reduces levels of sanitation, exacerbating the spread of disease. Agriculture also becomes more difficult to maintain in water-stressed areas, causing malnutrition and hunger. People in water-stressed areas often have to travel far or wait long to acquire drinking water. This reduces the amount of time available to pursue higher goals like education, thereby stunting the community's development. 
 
 The goal of this analysis is to understand the factors that affect water stress in order to combat this growing issue. This project models the effect of ____, ____, and ____ upon water stress worldwide. *Explain how each factor contributes*
 
-Sources:
+## Sources:
 
 - renewable-water-resources-per-capita.csv & municipal-water-as-a-share-of-total-water-withdrawals.csv & industrial-water-as-a-share-of-total-water-withdrawals.csv & agricultural-water-as-a-share-of-total-water-withdrawals.csv, from https://ourworldindata.org/water-use-stress, collected on Thursday, March 14, 2024.
 
@@ -17,7 +17,7 @@ Sources:
 - FAOSTAT_meat_production_by_country_by_year.csv, from https://www.fao.org/faostat/en/#data/QCL, collected on Thursday, March 14, 2024.
 
 
-Variable Definitions:
+## Variable Definitions:
 
 `country` = Most well known name of the country.
 
