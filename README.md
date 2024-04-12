@@ -25,7 +25,7 @@ Variable Definitions:
 
 `year` = Recorded year of data.
 
-`stress` = Freshwater withdrawal as a proportion of available freshwater resources (%).
+`stress` = Freshwater use as a proportion of available freshwater resources (%).
 
 `agriculture_water` = Percentage of freshwater withdrawals for agricultural purposes.
 
