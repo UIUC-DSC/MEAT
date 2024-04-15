@@ -16,7 +16,7 @@ The goal of this analysis is to understand the factors that affect water stress 
 
 `year` = Recorded year of data.
 
-`stress` = Freshwater use as a proportion of available freshwater resources (%).
+`stress` = Freshwater use as a proportion of available internal freshwater resources (%).
 
 `agriculture_water` = Percentage of freshwater withdrawals for agricultural purposes.
 
@@ -33,15 +33,15 @@ skilled and impartial security forces and public servants. Higher scores mean mo
 
 `cattle` = Total cow production in number of cows.
 
-`total_withdrawals` = Total freshwater withdrawals.
+`total_withdrawals` = Total freshwater withdrawals in cubic meters.
 
-`cereal_yield` = Cereal yield, measured as kilograms per hectare of harvested land, includes wheat, rice, maize, barley, oats, rye, millet, sorghum, buckwheat, and mixed grains. Production data on cereals relate to crops harvested for dry grain only. Cereal crops harvested for hay or harvested green for food, feed, or silage and those used for grazing are excluded.
+`cereal_yield` = Cereal yield, measured as kilograms per hectare of harvested land.
 
-`control_of_corruption` = Control of Corruption captures perceptions of the extent to which public power is exercised for private gain, including both petty and grand forms of corruption, as well as "capture" of the state by elites and private interests. Estimate gives the country's score on the aggregate indicator, in units of a standard normal distribution, i.e. ranging from approximately -2.5 to 2.5.
+`control_of_corruption` = Level of corruption estimate.
 
-`hydro_electricity` = Sources of electricity refer to the inputs used to generate electricity. Hydropower refers to electricity produced by hydroelectric power plants.
+`hydro_electricity` = Percent of total electricity production from hydroelectric sources.
 
-`permanent_cropland` = Permanent cropland is land cultivated with crops that occupy the land for long periods and need not be replanted after each harvest, such as cocoa, coffee, and rubber. This category includes land under flowering shrubs, fruit trees, nut trees, and vines, but excludes land under trees grown for wood or timber.
+`permanent_cropland` = Permanent cropland is land cultivated with crops that occupy the land for long periods and need not be replanted after each harvest.
 
 `population_density` = Population density is midyear population divided by land area in square kilometers.
 
@@ -57,4 +57,13 @@ skilled and impartial security forces and public servants. Higher scores mean mo
 
 - FAOSTAT_meat_production_by_country_by_year.csv, from https://www.fao.org/faostat/en/#data/QCL, collected on Thursday, March 14, 2024.
   
-- *Packages used*
+# *Packages used:*
+
+- pandas
+- numpy
+- seaborn
+- matplotlib
+- math
+- itertools
+- scikit.learn
+- statsmodels
