@@ -6,7 +6,7 @@
 
 ## Goals: 
 
-The goal of this analysis is to understand the factors that affect water stress in order to combat this growing issue. In particular, *reducing meat production* 
+The goal of this analysis is to understand the factors that affect water stress in order to combat this growing issue.* 
 
 ## Variable Definitions:
 
