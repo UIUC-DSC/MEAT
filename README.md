@@ -47,6 +47,12 @@ skilled and impartial security forces and public servants. Higher scores mean mo
 
 ## Conclusions:
 
+Based on the robust linear regression model we created we made two interpretations. 
+1. We expect that on average with all other variables held equal, an increase in cattle production by one million cows will lead to a 1.0052 factor increase in water stress.
+2. We expect that on average with all other variables held equal, an increase in hydroelectric power as a proportion of total power production by 1% will lead to a 0.978 factor decrease in water stress.
+
+Based on our analysis, we are now more motivated to choose vegetarian options over meat options, and we are also more likely to support the construction of hydroelectric power sources.
+
 ## Resources:
 
 - renewable-water-resources-per-capita.csv & municipal-water-as-a-share-of-total-water-withdrawals.csv & industrial-water-as-a-share-of-total-water-withdrawals.csv & agricultural-water-as-a-share-of-total-water-withdrawals.csv, from https://ourworldindata.org/water-use-stress, collected on Thursday, March 14, 2024.
